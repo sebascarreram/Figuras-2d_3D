@@ -15,7 +15,7 @@ func MostrarMenu() {
 		fmt.Println("1. Figuras 2D")
 		fmt.Println("2. Figuras 3D")
 		fmt.Println("3. Salir")
-		l
+
 		opcion := utils.LeerEntero("Seleccione una opcion: ")
 
 		switch opcion {
